@@ -1,0 +1,63 @@
+.row19
+{
+    width:100%;
+    height:450px;
+   margin-top: 110px;
+    box-shadow: 0 7px 15px 0 rgba(0, 0, 0, .13), 0 1px 4px 0 rgba(0, 0, 0, .11);
+}
+.row18
+{
+    width:100%;
+    height:40px;
+    border:1px solid #3b5998;
+    text-align: center;
+    font-size: 20px;
+    background-color: #3b5998;
+    color:white;
+}
+.row20
+{
+    margin-left: 40px;
+}
+#TenantDetail
+{
+    width:80%;
+    height:25px;
+    border:1px solid gray;
+    border-radius: 3px;
+    margin-left: 30px;
+}
+#DueInvoice
+{
+    width:80%;
+    height:25px;
+    border:1px solid gray;
+    border-radius: 3px;
+    margin-left: 38px;
+}
+#AmmountPaid
+{
+    width:80%;
+    height:25px;
+    border:1px solid gray;
+    border-radius: 3px;
+    margin-left: 17px;
+}
+#PaymentMode
+{
+    
+    width:80%;
+    height:25px;
+    border:1px solid gray;
+    border-radius: 3px;
+    margin-left: 14px;
+}
+
+#descripation2
+{
+    width:80%;
+    height:40px;
+    border:1px solid gray;
+    border-radius: 3px;
+    margin-left: 18px;
+}

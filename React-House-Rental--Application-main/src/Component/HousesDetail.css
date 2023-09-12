@@ -1,0 +1,19 @@
+.row8
+{
+    width:100%;
+    height:500px;
+    margin-top: 100px;
+    box-shadow: 0 7px 15px 0 rgba(0, 0, 0, .13), 0 1px 4px 0 rgba(0, 0, 0, .11);
+   
+}
+.row7
+{
+    width:100%;
+    height:40px;
+    border:1px solid #3b5998;
+    background-color: #3b5998;
+    color:white;
+    text-align: center;
+    color:white;
+    font-size: 20px;
+}

@@ -1,0 +1,75 @@
+import React from "react";
+import"./TenatsDetail.css";
+const TenantsDetail=()=>
+{
+    return(
+        <div class="row12">
+        <div class="row11">TenatsDetail</div>
+        <p>
+            TenantsName:{""}
+            {localStorage.getItem("TenantsName")?
+            localStorage.getItem("TenantsName")
+        :"NA"}
+        </p>
+        <br>
+        </br>
+        <p>
+        MobileNumber:{""}
+            {localStorage.getItem("MobileNumber")?
+            localStorage.getItem("MobileNumber")
+        :"NA"}
+        </p>
+        <br></br>
+        <p>
+            IdNumber:{""}
+            {localStorage.getItem("IdNumber")?
+            localStorage.getItem("IdNumber")
+        :"NA"}
+        </p>
+        <br></br>
+        <p>
+            HouseUnit:{""}
+            {localStorage.getItem("Houseunit")?
+             localStorage.getItem("Houseunit")
+            :"NA"}
+        </p>
+        <br></br>
+        <p>
+        DateOccupied:{""}
+        {localStorage.getItem("DateOccupied")?
+        localStorage.getItem("DateOccupied")
+    :"NA"}
+        </p>
+        <br></br>
+        <p>
+        HouserentDeposit:{""}
+        {localStorage.getItem("HouserentDeposit")?
+        localStorage.getItem("HouserentDeposit")
+    :"NA"}
+     </p>
+    <br></br>
+    <p>
+    ElectricityDeposit:{""}
+    {localStorage.getItem("ElectricityDeposit")?
+    localStorage.getItem("ElectricityDeposit")
+:"NA"}
+    </p>
+    <br></br>
+    <p>
+    WaterDeposit:{""}
+    {localStorage.getItem("WaterDeposit")?
+    localStorage.getItem("WaterDeposit")
+:"NA"}
+    </p>
+    <br></br>
+    <p>
+    descripation:{""}
+    {localStorage.getItem("descripation")?
+    localStorage.getItem("descripation")
+:"NA"}
+    </p>
+       
+        </div>
+    );
+}
+export default TenantsDetail;

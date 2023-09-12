@@ -1,0 +1,96 @@
+#fo
+{
+
+    width:100%;
+    height:550px;
+    margin-top: 80px;
+    box-shadow: 0 7px 15px 0 rgba(0, 0, 0, .13), 0 1px 4px 0 rgba(0, 0, 0, .11);
+}
+.row9
+{
+    width:100%;
+    height:40px;
+    border:1px solid #3b5998;
+    text-align: center;
+    font-size: 20px;
+    background-color: #3b5998;
+    color:white;
+}
+#row10
+{
+    margin-left: 40px;
+}
+#TenantsName
+{
+    width:80%;
+    height:25px;
+    border:1px solid gray;
+    margin-left: 30px;
+}
+#MobileNumber
+{
+    width:80%;
+    height:25px;
+    border:1px solid gray;
+    margin-left: 23px;
+}
+#IdNumber
+{
+    width:80%;
+    height:25px;
+    border:1px solid gray;
+    margin-left:54px;
+}
+#Houseunit
+{
+    width:80%;
+    height:25px;
+    border:1px solid gray;
+    margin-left: 54px;
+}
+#DateOccupied
+{
+   
+    width:80%;
+    height:25px;
+    border:1px solid gray;
+   margin-left: 25px;
+}
+#HouserentDeposit
+{
+    width:80%;
+    height:25px;
+    border:1px solid gray;
+
+}
+#ElectricityDeposit
+{
+    width:80%;
+    height:25px;
+    border:1px solid gray;
+    margin-left:5px;
+}
+#WaterDeposit
+{
+    width:80%;
+    height:25px;
+    border:1px solid gray;
+    margin-left: 28px;
+}
+#descripation
+{
+    width:80%;
+    height:25px;
+    border:1px solid gray;
+    margin-left: 35px;
+}
+#submit5
+{
+    width:40%;
+    height:35px;
+    border:1px solid  #3b5998;
+    border-radius: 5px;
+    background-color: #3b5998;
+    color:white;
+    margin-left:280px;
+}
